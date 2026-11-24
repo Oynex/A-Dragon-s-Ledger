@@ -15,7 +15,7 @@
 ## Features
 
 - **100% Local Plain-Text Storage:** Your entire campaign lives in a regular folder on your hard drive as standard `.md` files with YAML frontmatter and JSON map definitions. No proprietary database, no accounts required to write, and full compatibility with Obsidian or VS Code.
-- **Lossless High-Res Map Explorer:** Pan and zoom uncompressed 8K+ continent and dungeon maps without image compression. Drop pins linked to any NPC, location, or event, filter categories with a toggleable legend, and click any marker to view its notes in a slide-over drawer.
+- **Lossless Map Explorer:** Pan and zoom continent and dungeon maps at their native resolution without image compression. Drop pins linked to any NPC, location, or event, filter categories with a toggleable legend, and click any marker to view its notes in a slide-over drawer.
 - **2-Way `[[WikiLinks]]`, Split Panes & Peek Drawer:** Type `[[` anywhere to link characters, towns, factions, or quests. Open notes side-by-side in split panes or inspect linked articles in a slide-over Peek Drawer without losing your place.
 - **Tabletop Writing Blocks & Clocks:** Format boxed narration text with `> [!read-aloud]` callouts for quick reading at the table, and track villain schemes or faction tension with interactive progress clocks.
 - **2D Relationship Graph:** Visualize connections across NPCs, factions, and locations in an interactive force-directed graph with category filters.
