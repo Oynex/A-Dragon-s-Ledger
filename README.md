@@ -1,1 +1,7 @@
-This is just for distribution
+Algorithm : SHA256
+Hash      : ECD1E6658537B334B3BA8E37D8D9080AF9F934238C5C41D57B25877AE2D3CDC2
+Name      : a-dragons-ledger-setup.exe
+
+Algorithm : SHA256
+Hash      : D95DECF1DB25FF0BC7573EA0E7E967A88A1F8496D281358F9B7A2AB5807C172A
+Name      : a-dragons-ledger-portable.exe
