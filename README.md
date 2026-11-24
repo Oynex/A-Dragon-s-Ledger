@@ -29,18 +29,18 @@ Both editions are feature-complete and work completely offline. You can download
 
 | Edition | Download | Size | VirusTotal |
 | :--- | :--- | :--- | :--- |
-| **Windows Installer** *(Recommended)* | [`a-dragons-ledger-setup.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-setup.exe) | ~133 MB | [View Scan Report](https://www.virustotal.com/gui/file/ecd1e6658537b334b3ba8e37d8d9080af9f934238c5c41d57b25877ae2d3cdc2) |
-| **Portable Edition** *(Zero Install)* | [`a-dragons-ledger-portable.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-portable.exe) | ~119 MB | [View Scan Report](https://www.virustotal.com/gui/file/d95decf1db25ff0bc7573ea0e7e967a88a1f8496d281358f9b7a2ab5807c172a) |
+| **Windows Installer** *(Recommended)* | [`a-dragons-ledger-setup.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-setup.exe) | ~133 MB | [View Scan Report](https://www.virustotal.com/gui/file/39f0c141618a920acc154b2a7b22023403a9f3852f3eab6777e85f88634b0635) |
+| **Portable Edition** *(Zero Install)* | [`a-dragons-ledger-portable.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-portable.exe) | ~119 MB | [View Scan Report](https://www.virustotal.com/gui/file/c868d186c685b3903e05751e67ba952463a312f33023ec1c6c095ecde64cb0b1) |
 
 ### SHA-256 Checksums
 
 - **`a-dragons-ledger-setup.exe`**
   ```text
-  ecd1e6658537b334b3ba8e37d8d9080af9f934238c5c41d57b25877ae2d3cdc2
+  39f0c141618a920acc154b2a7b22023403a9f3852f3eab6777e85f88634b0635
   ```
 - **`a-dragons-ledger-portable.exe`**
   ```text
-  d95decf1db25ff0bc7573ea0e7e967a88a1f8496d281358f9b7a2ab5807c172a
+  c868d186c685b3903e05751e67ba952463a312f33023ec1c6c095ecde64cb0b1
   ```
 
 You can verify the downloaded file locally in Windows PowerShell:
