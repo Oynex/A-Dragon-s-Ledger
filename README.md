@@ -1,6 +1,5 @@
 <img width="128" height="128" alt="icon-128" src="https://github.com/user-attachments/assets/08df2e83-41d1-43a6-8606-b6f72c222131" />
 
-
 # A Dragon's Ledger
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-blue)](#downloads--verification)
@@ -32,18 +31,18 @@ Both editions are feature-complete and work completely offline. You can download
 
 | Edition | Download | Size | VirusTotal |
 | :--- | :--- | :--- | :--- |
-| **Windows Installer** *(Recommended)* | [`a-dragons-ledger-setup.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-setup.exe) | ~133 MB | [View Scan Report](https://www.virustotal.com/gui/file/39f0c141618a920acc154b2a7b22023403a9f3852f3eab6777e85f88634b0635) |
-| **Portable Edition** *(Zero Install)* | [`a-dragons-ledger-portable.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-portable.exe) | ~119 MB | [View Scan Report](https://www.virustotal.com/gui/file/c868d186c685b3903e05751e67ba952463a312f33023ec1c6c095ecde64cb0b1) |
+| **Windows Installer** *(Recommended)* | [`a-dragons-ledger-setup.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-setup.exe) | ~130 MB | [View Scan Report](https://www.virustotal.com/gui/file/d4344005c24a93baadd51502362ce6dd423cd43bfb415a8b8911924e0716ffb9) |
+| **Portable Edition** *(Zero Install)* | [`a-dragons-ledger-portable.exe`](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest/download/a-dragons-ledger-portable.exe) | ~117 MB | [View Scan Report](https://www.virustotal.com/gui/file/a6d95e672c93b6c481624fbe96a505ece6a852c33b7dbb650d474dbe3c446d13) |
 
 ### SHA-256 Checksums
 
 - **`a-dragons-ledger-setup.exe`**
   ```text
-  39f0c141618a920acc154b2a7b22023403a9f3852f3eab6777e85f88634b0635
+  d4344005c24a93baadd51502362ce6dd423cd43bfb415a8b8911924e0716ffb9
   ```
 - **`a-dragons-ledger-portable.exe`**
   ```text
-  c868d186c685b3903e05751e67ba952463a312f33023ec1c6c095ecde64cb0b1
+  a6d95e672c93b6c481624fbe96a505ece6a852c33b7dbb650d474dbe3c446d13
   ```
 
 You can verify the downloaded file locally in Windows PowerShell:
