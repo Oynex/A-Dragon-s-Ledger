@@ -1,3 +1,6 @@
+<img width="128" height="128" alt="icon-128" src="https://github.com/user-attachments/assets/08df2e83-41d1-43a6-8606-b6f72c222131" />
+
+
 # A Dragon's Ledger
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-blue)](#downloads--verification)
