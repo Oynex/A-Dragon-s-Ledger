@@ -2,11 +2,13 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(x64)-blue)](#downloads--verification)
 [![Release](https://img.shields.io/badge/Release-v1.0.1-d4a853)](https://github.com/Oynex/A-Dragon-s-Ledger/releases/latest)
+[![itch.io](https://img.shields.io/badge/itch.io-Available%20Free-fa5c5c)](https://oynex.itch.io/a-dragons-ledger)
 [![License](https://img.shields.io/badge/Price-Free%20%26%20Offline--First-34d399)](#)
 
 **An offline-first Markdown campaign manager and spoiler-safe lore distribution tool for tabletop RPGs.**
 
-Website & Full User Guide: **[dragonsledger.com](https://dragonsledger.com)**
+- **Website & Full User Guide:** [dragonsledger.com](https://dragonsledger.com)
+- **itch.io Project Page:** [oynex.itch.io/a-dragons-ledger](https://oynex.itch.io/a-dragons-ledger)
 
 ---
 
@@ -23,7 +25,7 @@ Website & Full User Guide: **[dragonsledger.com](https://dragonsledger.com)**
 
 ## Downloads & Verification (`v1.0.1`)
 
-Both editions are feature-complete and work completely offline.
+Both editions are feature-complete and work completely offline. You can download directly below or via the [itch.io page](https://oynex.itch.io/a-dragons-ledger).
 
 | Edition | Download | Size | VirusTotal |
 | :--- | :--- | :--- | :--- |
